@@ -1,8 +1,8 @@
-# Channel table for VicÃªncia - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2380
+# Channel table for Vicência - PE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2380
 
-# Physical channel 34
-[Globo Nordeste]
+# Physical channel 34 (virtual 34.1)
+[TV Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

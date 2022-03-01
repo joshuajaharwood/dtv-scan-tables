@@ -1,8 +1,8 @@
-# Channel table for IndependÃªncia - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2056
+# Channel table for Independência - RS - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2056
 
-# Physical channel 34
-[RBS TV]
+# Physical channel 34 (virtual 6.1)
+[RBS Santa Rosa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

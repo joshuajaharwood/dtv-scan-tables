@@ -1,7 +1,7 @@
-# Channel table for Dom Pedro de Alc√¢ntara - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2095
+# Channel table for Dom Pedro De Alc‚ntara - RS - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2095
 
-# Physical channel 23
+# Physical channel 23 (virtual 8.1)
 [RBS TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 29
+# Physical channel 29 (virtual 25.1)
 [SBT RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
+# Physical channel 38 (virtual 10.1)
 [Band RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

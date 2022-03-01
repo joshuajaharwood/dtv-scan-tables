@@ -1,7 +1,7 @@
-# Channel table for SÃ£o Gabriel da Cachoeira - AM - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=396
+# Channel table for São Gabriel Da Cachoeira - AM - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=396
 
-# Physical channel 38
+# Physical channel 38 (virtual 7.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

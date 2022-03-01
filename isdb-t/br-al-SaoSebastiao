@@ -1,7 +1,7 @@
-# Channel table for S√£o Sebasti√£o - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2242
+# Channel table for S„o Sebasti„o - AL - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2242
 
-# Physical channel 43
+# Physical channel 43 (virtual 9.1)
 [TV Paju√ßara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

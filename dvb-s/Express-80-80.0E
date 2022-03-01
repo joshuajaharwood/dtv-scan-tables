@@ -1,0 +1,12 @@
+# Channel table for Express 80 at 80.0°E
+# Source: http://www.lyngsat.com/Express-80.html
+
+[various]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 10981000
+	POLARIZATION = VERTICAL
+	SYMBOL_RATE = 42188000
+	MODULATION = PSK/8
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

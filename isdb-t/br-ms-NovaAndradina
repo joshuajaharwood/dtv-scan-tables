@@ -1,7 +1,7 @@
 # Channel table for Nova Andradina - MS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=424
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=424
 
-# Physical channel 35
+# Physical channel 35 (virtual 4.1)
 [TV Morena Ponta Porã]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41
+# Physical channel 41 (virtual 13.1)
 [RIT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

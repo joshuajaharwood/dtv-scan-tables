@@ -1,7 +1,7 @@
 # Channel table for Inhambupe - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1309
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1309
 
-# Physical channel 27
+# Physical channel 27 (virtual 3.1)
 [TV Subaé]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
-# Channel table for União dos Palmares - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=949
+# Channel table for Uni�o Dos Palmares - AL - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=949
 
-# Physical channel 41
+# Physical channel 41 (virtual 41.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

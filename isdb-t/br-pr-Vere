@@ -1,7 +1,7 @@
-# Channel table for Verê - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1749
+# Channel table for Ver� - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1749
 
-# Physical channel 19
+# Physical channel 19 (virtual 50.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41
+# Physical channel 41 (virtual 11.1)
 [RPC Foz do Iguaçu]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

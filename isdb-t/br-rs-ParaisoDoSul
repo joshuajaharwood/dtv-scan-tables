@@ -1,8 +1,8 @@
-# Channel table for ParaÃ­so do Sul - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=337
+# Channel table for Paraíso Do Sul - RS - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=337
 
-# Physical channel 33
-[RBS TV]
+# Physical channel 33 (virtual 6.1)
+[RBS Santa Cruz]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38
+# Physical channel 38 (virtual 8.1)
 [Band RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 42
-[RBS TV]
+# Physical channel 42 (virtual 3.1)
+[RBS Santa Cruz]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857

@@ -1,7 +1,7 @@
 # Channel table for Coruripe - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2250
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2250
 
-# Physical channel 41
+# Physical channel 41 (virtual 36.1)
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

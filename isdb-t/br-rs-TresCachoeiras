@@ -1,7 +1,7 @@
-# Channel table for TrÃªs Cachoeiras - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1892
+# Channel table for Três Cachoeiras - RS - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1892
 
-# Physical channel 23
+# Physical channel 23 (virtual 8.1)
 [RBS TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

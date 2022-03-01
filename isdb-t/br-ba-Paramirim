@@ -1,8 +1,8 @@
 # Channel table for Paramirim - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=801
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=801
 
-# Physical channel 21
-[Record Bahia]
+# Physical channel 21 (virtual 11.1)
+[Record TV Itapoan]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

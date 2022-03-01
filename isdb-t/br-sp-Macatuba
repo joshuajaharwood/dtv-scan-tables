@@ -1,8 +1,8 @@
 # Channel table for Macatuba - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2815
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2815
 
-# Physical channel 18
-[Band SP Interior]
+# Physical channel 18 (virtual 7.1)
+[Band Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20
+# Physical channel 20 (virtual 20.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24
+# Physical channel 24 (virtual 12.1)
 [SBT Central]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26
+# Physical channel 26 (virtual 26.1)
 [TV Tem Bauru]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

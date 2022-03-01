@@ -1,14 +1,14 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/NE15 6PL/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/NE15 6PL>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Fenham
-# date (yyyy-mm-dd)    : 2015-01-17
+# date (yyyy-mm-dd)    : 2020-07-10
 #
 #----------------------------------------------------------------------------------------------
-[C27 BBC A]
+[C23 BBC A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 522000000
+	FREQUENCY = 490000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -18,9 +18,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C24 D3&4]
+[C26 D3&4]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 498000000
+	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C31 COM7 HD]
+[C30 BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 554000000
+	FREQUENCY = 546000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -55,9 +55,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C22+ ARQ A]
+[C22 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 482167000
+	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -79,16 +79,15 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C21+ BBC B HD]
-	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 474167000
+[C36 L-NCL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
+	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
-	MODULATION = QAM/256
-	TRANSMISSION_MODE = 32K
-	GUARD_INTERVAL = 1/128
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
 	HIERARCHY = NONE
-	STREAM_ID = 0
 	INVERSION = AUTO
 

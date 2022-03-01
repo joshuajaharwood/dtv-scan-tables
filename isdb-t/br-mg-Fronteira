@@ -1,7 +1,7 @@
 # Channel table for Fronteira - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1027
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1027
 
-# Physical channel 23
+# Physical channel 23 (virtual 40.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28
+# Physical channel 28 (virtual 9.1)
 [TV Paranaíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31
+# Physical channel 31 (virtual 11.1)
 [TV Integração Ituiutaba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

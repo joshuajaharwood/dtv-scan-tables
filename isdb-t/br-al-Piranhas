@@ -1,8 +1,8 @@
 # Channel table for Piranhas - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=635
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=635
 
-# Physical channel 32
-[TV Sergipe]
+# Physical channel 32 (virtual 11.2)
+[TV Sergipe, Educação SE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857

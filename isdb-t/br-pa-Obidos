@@ -1,7 +1,7 @@
-# Channel table for Ã“bidos - PA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=124
+# Channel table for óbidos - PA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=124
 
-# Physical channel 31
+# Physical channel 31 (virtual 16.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

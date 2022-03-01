@@ -1,8 +1,8 @@
-# Channel table for Cap√£o Alto - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2236
+# Channel table for Cap„o Alto - SC - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2236
 
-# Physical channel 33
-[RBS SC]
+# Physical channel 33 (virtual 2.1)
+[NSC Centro-Oeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46
-[SBT SC]
+# Physical channel 46 (virtual 10.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

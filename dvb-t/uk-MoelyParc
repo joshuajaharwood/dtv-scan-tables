@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/CH7 5UU/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/CH7 5UU>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Moel y Parc
-# date (yyyy-mm-dd)    : 2015-01-17
+# date (yyyy-mm-dd)    : 2021-01-28
 #
 #----------------------------------------------------------------------------------------------
 [C45 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C32 COM7 HD]
+[C42 BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 562000000
+	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -43,9 +43,9 @@
 	STREAM_ID = 0
 	INVERSION = AUTO
 
-[C51- SDN]
+[C33 SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 713833000
+	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -55,9 +55,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C52+ ARQ A]
+[C36 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 722167000
+	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -79,9 +79,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C42 BBC B HD]
+[C55 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 642000000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -90,5 +90,17 @@
 	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
 	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C27 L-MLD]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 522000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 3/4
+	CODE_RATE_LP = NONE
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
 	INVERSION = AUTO
 

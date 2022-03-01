@@ -1,8 +1,8 @@
 # Ireland, Clermont Carn
-# Generated from http://www.comreg.ie/_fileupload/Broadcast_Technical_Parameters.xlsx
-[CH52: Saorview MUX1]
+# Generated from https://www.2rn.ie/wp-content/uploads/2019/09/2RN-DTT-Television-Transmission-Network-Sept-2019-Rev.1.2.pdf
+[CH42: Saorview MUX1]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 722000000
+	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -12,9 +12,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[CH56: Saorview MUX2]
+[CH45: Saorview MUX2]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	FREQUENCY = 666000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE

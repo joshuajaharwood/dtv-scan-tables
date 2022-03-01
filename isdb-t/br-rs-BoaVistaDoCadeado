@@ -1,8 +1,8 @@
-# Channel table for Boa Vista do Cadeado - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2766
+# Channel table for Boa Vista Do Cadeado - RS - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2766
 
-# Physical channel 33
-[RBS TV]
+# Physical channel 33 (virtual 3.1)
+[RBS Cruz Alta]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

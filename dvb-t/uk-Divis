@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/BT17 0NG/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/BT17 0NG>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Divis
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2020-07-10
 #
 #----------------------------------------------------------------------------------------------
 [C27 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C33 COM7 HD]
+[C24 BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 570000000
+	FREQUENCY = 498000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -67,9 +67,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C29 ARQ B]
+[C30 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 538000000
+	FREQUENCY = 546000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -79,9 +79,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C24 BBC B HD]
+[C55 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 498000000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -90,5 +90,17 @@
 	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
 	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C36 L-BFT]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 594000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 3/4
+	CODE_RATE_LP = NONE
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
 	INVERSION = AUTO
 

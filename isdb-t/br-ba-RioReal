@@ -1,7 +1,7 @@
 # Channel table for Rio Real - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1357
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1357
 
-# Physical channel 29
+# Physical channel 29 (virtual 11.1)
 [TV Bahia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

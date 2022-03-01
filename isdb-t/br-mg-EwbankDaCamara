@@ -1,7 +1,7 @@
-# Channel table for Ewbank da Câmara - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3423
+# Channel table for Ewbank Da C�mara - MG - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3423
 
-# Physical channel 24
+# Physical channel 24 (virtual 43.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26
+# Physical channel 26 (virtual 2.1)
 [Rede TV!]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30
+# Physical channel 30 (virtual 5.1)
 [TV Integração Juiz de Fora]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36
+# Physical channel 36 (virtual 7.1)
 [Band MG]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

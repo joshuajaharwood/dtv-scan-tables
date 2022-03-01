@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/HD8 9TF/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/HD8 9TF>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Emley Moor
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2020-07-10
 #
 #----------------------------------------------------------------------------------------------
 [C47 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C32 COM7 HD]
+[C41 BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 562000000
+	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -43,9 +43,9 @@
 	STREAM_ID = 0
 	INVERSION = AUTO
 
-[C51 SDN]
+[C33 SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 714000000
+	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -55,9 +55,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C52 ARQ A]
+[C36 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 722000000
+	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -79,9 +79,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C41 BBC B HD]
+[C55 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 634000000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -92,9 +92,9 @@
 	STREAM_ID = 0
 	INVERSION = AUTO
 
-[C56 L-LDS]
+[C39 L-LDS]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE

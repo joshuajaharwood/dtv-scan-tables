@@ -1,7 +1,7 @@
 # Channel table for Iacri - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2883
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2883
 
-# Physical channel 20
+# Physical channel 20 (virtual 20.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26
+# Physical channel 26 (virtual 26.1)
 [TV Tem Bauru]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28
-[Record Paulista]
+# Physical channel 28 (virtual 4.1)
+[Record TV Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857

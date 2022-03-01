@@ -1,7 +1,7 @@
-# Channel table for Santa Lúcia - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2838
+# Channel table for Santa L�cia - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2838
 
-# Physical channel 18
+# Physical channel 18 (virtual 9.1)
 [TV Clube Ribeirão Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24
+# Physical channel 24 (virtual 24.1)
 [SBT Central]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28
-[Record Interior]
+# Physical channel 28 (virtual 13.1)
+[Record TV Interior SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -88,7 +88,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35
+# Physical channel 35 (virtual 35.1)
 [Record News]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 51
+# Physical channel 51 (virtual 50.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

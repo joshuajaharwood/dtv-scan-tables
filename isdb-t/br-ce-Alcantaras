@@ -1,8 +1,8 @@
-# Channel table for Alc√¢ntaras - CE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2547
+# Channel table for Alc‚ntaras - CE - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2547
 
-# Physical channel 39
-[NordesTV]
+# Physical channel 39 (virtual 48.1)
+[TV Jangadeiro]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

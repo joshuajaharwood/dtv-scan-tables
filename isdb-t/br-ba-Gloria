@@ -1,7 +1,7 @@
-# Channel table for Glória - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=642
+# Channel table for Gl�ria - BA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=642
 
-# Physical channel 28
+# Physical channel 28 (virtual 6.1)
 [TV São Francisco]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

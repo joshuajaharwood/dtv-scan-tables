@@ -1,8 +1,8 @@
 # Channel table for Sananduva - RS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1913
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1913
 
-# Physical channel 18
-[RBS TV]
+# Physical channel 18 (virtual 7.1)
+[RBS Passo Fundo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

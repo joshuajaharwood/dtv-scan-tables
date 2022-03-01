@@ -1,7 +1,7 @@
 # Channel table for Coxim - MS - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=654
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=654
 
-# Physical channel 43
+# Physical channel 43 (virtual 11.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

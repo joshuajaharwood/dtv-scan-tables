@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/HR8 2PG/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/HR8 2PG>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Ridge Hill
-# date (yyyy-mm-dd)    : 2015-01-17
+# date (yyyy-mm-dd)    : 2020-07-10
 #
 #----------------------------------------------------------------------------------------------
 [C28 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C32 COM7 HD]
+[C22+ BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 562000000
+	FREQUENCY = 482167000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -79,9 +79,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C22+ BBC B HD]
+[C55 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 482167000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE

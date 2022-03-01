@@ -1,0 +1,11 @@
+# Channel table for Nusantara Satu at 146.0°E
+# Source: http://www.lyngsat.com/Nusantara-Satu.html
+
+[Pasifik Satelit Nusantara]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 4031000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 16363000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

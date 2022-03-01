@@ -1,7 +1,7 @@
-# Channel table for Tejup√° - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2919
+# Channel table for Tejup· - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2919
 
-# Physical channel 26
+# Physical channel 26 (virtual 26.1)
 [TV Tem Itapetininga]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

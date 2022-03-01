@@ -1,7 +1,7 @@
-# Channel table for SÃ£o Raimundo Nonato - PI - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=942
+# Channel table for São Raimundo Nonato - PI - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=942
 
-# Physical channel 39
+# Physical channel 39 (virtual 12.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

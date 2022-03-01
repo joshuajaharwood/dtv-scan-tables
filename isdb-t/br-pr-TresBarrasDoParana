@@ -1,8 +1,8 @@
-# Channel table for Três Barras do Paraná - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2364
+# Channel table for Tr�s Barras Do Paran� - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2364
 
-# Physical channel 36
-[TV Tarobá]
+# Physical channel 36 (virtual 6.1)
+[TV Tarobá Cascavel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

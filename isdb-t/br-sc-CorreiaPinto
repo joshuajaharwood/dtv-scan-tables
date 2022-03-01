@@ -1,8 +1,8 @@
 # Channel table for Correia Pinto - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2231
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2231
 
-# Physical channel 30
-[RIC SC]
+# Physical channel 30 (virtual 7.1)
+[NDTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46
-[SBT SC]
+# Physical channel 46 (virtual 10.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

@@ -1,0 +1,12 @@
+# Channel table for Telkom 3S at 118.0°E
+# Source: http://www.lyngsat.com/Telkom-3S.html
+
+[Transvision]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 12560000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 10000000
+	MODULATION = PSK/8
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

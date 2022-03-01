@@ -1,7 +1,7 @@
-# Channel table for Venda Nova do Imigrante - ES - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=657
+# Channel table for Venda Nova Do Imigrante - ES - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=657
 
-# Physical channel 22
+# Physical channel 22 (virtual 4.1)
 [TV Gazeta Vitória]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

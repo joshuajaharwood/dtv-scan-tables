@@ -1,7 +1,7 @@
-# Channel table for Craíbas - AL - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3058
+# Channel table for Cra�bas - AL - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3058
 
-# Physical channel 43
+# Physical channel 43 (virtual 9.1)
 [TV Pajuçara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

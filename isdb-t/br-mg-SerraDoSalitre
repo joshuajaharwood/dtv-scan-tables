@@ -1,7 +1,7 @@
-# Channel table for Serra do Salitre - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3286
+# Channel table for Serra Do Salitre - MG - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3286
 
-# Physical channel 30
+# Physical channel 30 (virtual 6.1)
 [TV Integração Araxá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,8 +1,8 @@
-# Channel table for √Åguas Mornas - SC - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1799
+# Channel table for ·guas Mornas - SC - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1799
 
-# Physical channel 34
-[RBS SC]
+# Physical channel 34 (virtual 7.1)
+[NSC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46
-[SBT SC]
+# Physical channel 46 (virtual 45.1)
+[SCC SBT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

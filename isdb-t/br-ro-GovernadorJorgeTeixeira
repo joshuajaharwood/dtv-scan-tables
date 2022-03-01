@@ -1,8 +1,8 @@
 # Channel table for Governador Jorge Teixeira - RO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3451
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3451
 
-# Physical channel 16
-[TV Cidade]
+# Physical channel 16 (virtual 13.1)
+[TV Cidade/RO]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

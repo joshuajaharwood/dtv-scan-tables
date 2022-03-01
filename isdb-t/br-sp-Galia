@@ -1,7 +1,7 @@
-# Channel table for GÃ¡lia - SP - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2918
+# Channel table for Gália - SP - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2918
 
-# Physical channel 23
+# Physical channel 23 (virtual 12.1)
 [SBT Central]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26
+# Physical channel 26 (virtual 26.1)
 [TV Tem Bauru]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,7 +1,7 @@
-# Channel table for Riach√£o do Jacu√≠pe - BA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1503
+# Channel table for Riach„o Do JacuÌpe - BA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1503
 
-# Physical channel 32
+# Physical channel 32 (virtual 6.1)
 [TV Suba√©]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

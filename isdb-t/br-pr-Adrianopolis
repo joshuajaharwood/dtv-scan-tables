@@ -1,8 +1,8 @@
-# Channel table for AdrianÃ³polis - PR - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1677
+# Channel table for Adrianópolis - PR - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1677
 
-# Physical channel 41
-[RPC]
+# Physical channel 41 (virtual 12.1)
+[RPC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

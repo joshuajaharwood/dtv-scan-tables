@@ -1,8 +1,8 @@
-# Channel table for Cametá - PA - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=130
+# Channel table for Camet� - PA - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=130
 
-# Physical channel 16
-[Rede Vida]
+# Physical channel 16 (virtual 15.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

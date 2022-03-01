@@ -1,7 +1,7 @@
 # Channel table for Campestre - MG - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=3087
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3087
 
-# Physical channel 42
+# Physical channel 42 (virtual 5.1)
 [EPTV Sul de Minas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

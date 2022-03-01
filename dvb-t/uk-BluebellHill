@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/ME5+9RD/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/ME5 9RD>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Bluebell Hill
-# date (yyyy-mm-dd)    : 2018-07-19
+# date (yyyy-mm-dd)    : 2020-07-10
 #
 #----------------------------------------------------------------------------------------------
 [C32 BBC A]
@@ -30,28 +30,15 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C55 COM7 HD]
+[C45 BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 746000000
+	FREQUENCY = 666000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
 	MODULATION = QAM/256
 	TRANSMISSION_MODE = 32K
-	GUARD_INTERVAL = 1/16
-	HIERARCHY = NONE
-	STREAM_ID = 0
-	INVERSION = AUTO
-
-[C56 COM8 HD]
-	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 754000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/256
-	TRANSMISSION_MODE = 32K
-	GUARD_INTERVAL = 1/16
+	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
 	STREAM_ID = 0
 	INVERSION = AUTO
@@ -92,9 +79,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C45 BBC B HD]
+[C55 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 666000000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -103,5 +90,17 @@
 	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
 	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C21 L-MDN]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 474000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 3/4
+	CODE_RATE_LP = NONE
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
 	INVERSION = AUTO
 

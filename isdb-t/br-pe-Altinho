@@ -1,7 +1,7 @@
 # Channel table for Altinho - PE - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2387
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2387
 
-# Physical channel 17
+# Physical channel 17 (virtual 8.1)
 [TV Asa Branca]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35
-[TV Jornal]
+# Physical channel 35 (virtual 4.1)
+[TV Jornal Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857

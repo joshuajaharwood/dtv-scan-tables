@@ -1,7 +1,7 @@
-# Channel table for SÃ£o LuÃ­s de Montes Belos - GO - Brazil
-# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1525
+# Channel table for São Luís De Montes Belos - GO - Brazil
+# Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1525
 
-# Physical channel 14
+# Physical channel 14 (virtual 15.1)
 [Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
